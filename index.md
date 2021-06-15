@@ -9,7 +9,7 @@
 
 ---
 [T-REX](https://t-rex-game-replicate.hostman.site/)
-<img src="images/t-rex game.pnp"/>
+<img src="images/t-rex-game.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
