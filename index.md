@@ -3,11 +3,11 @@
 ---
 
 ## Vanilla Javascript Game
-### [GAME 2048](https://game-2048.hostman.site/)
+### [GAME 2048](https://game-2048.hostman.site/). Click Me To Play!
 <img src="images/2048screenshot.png"/>
 
 ---
-### [T-REX](https://t-rex-game-replicate.hostman.site/)
+### [T-REX](https://t-rex-game-replicate.hostman.site/) Click Me To Play!
 <img src="images/t-rex-game.png"/>
 
 ---
