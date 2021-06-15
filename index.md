@@ -3,8 +3,7 @@
 ---
 
 ### Vanilla Javascript Game
-
-[GAME 2048](https://game-2048.hostman.site/)
+#### GAME 2048 (https://game-2048.hostman.site/)
 <img src="images/2048screenshot.png"/>
 
 ---
