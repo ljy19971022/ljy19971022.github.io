@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Vanilla Javascript Game
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[GAME 2048](https://game-2048.hostman.site/)
+<img src="images/2048screenshot.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[T-REX](https://t-rex-game-replicate.hostman.site/)
+<img src="images/t-rex game.gnp"/>
 
 ---
 [Project 3 Title](http://example.com/)
