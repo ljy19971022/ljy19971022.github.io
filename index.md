@@ -2,6 +2,11 @@
 
 ---
 
+## Bitcoin Sentiment Analysis Since Pandemic using Python
+### [Github Link](https://github.com/ljy19971022/bitcoinSentimentAnalysis)
+![wordCloud](https://user-images.githubusercontent.com/41314782/133948735-893603eb-8dd9-416b-a102-537b36bbc1e2.png)
+
+
 ## Vanilla Javascript Game
 ### [GAME 2048](https://game-2048.hostman.site/). Click Me To Play!
 <img src="images/2048screenshot.png"/>
@@ -9,25 +14,6 @@
 ---
 ### [T-REX](https://t-rex-game-replicate.hostman.site/) Click Me To Play!
 <img src="images/t-rex-game.png"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
